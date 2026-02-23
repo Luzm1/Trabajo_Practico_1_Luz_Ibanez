@@ -18,6 +18,7 @@
   <li><code>app.py</code> – Archivo principal de la aplicación.</li>
   <li><code>requirements.txt</code> – Lista de dependencias necesarias.</li>
   <li><code>README.md</code> – Documentación del proyecto.</li>
+  <li><code>imagen_home.jpg</code> – Imagen de página Home.</li>
 </ul>
 
 <h2 style="color:#111827; font-family:Segoe UI, system-ui;">🚀 Instrucciones de ejecución</h2>
@@ -37,6 +38,10 @@ pip install -r requirements.txt</pre>
     En la consola (CMD), ejecutar:
     <pre style="background:#0b1120; color:#e5e7eb; padding:10px; border-radius:6px; font-size:13px;">
 streamlit run app.py</pre>
+  </li>
+  </li>
+  <li style="margin-top:8px;">
+    <strong>NOTA: El archivo imagen_home.jpg debe encontrarse en la misma carpeta que la aplicación (app.py)</strong><br />
   </li>
 </ol>
 
